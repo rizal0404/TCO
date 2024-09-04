@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rizal0404/TCO.git/static/css/main.b6f8096a.css",
+    "main.js": "/rizal0404/TCO.git/static/js/main.c9c7a0e1.js",
+    "static/js/453.12b48353.chunk.js": "/rizal0404/TCO.git/static/js/453.12b48353.chunk.js",
+    "index.html": "/rizal0404/TCO.git/index.html",
+    "main.b6f8096a.css.map": "/rizal0404/TCO.git/static/css/main.b6f8096a.css.map",
+    "main.c9c7a0e1.js.map": "/rizal0404/TCO.git/static/js/main.c9c7a0e1.js.map",
+    "453.12b48353.chunk.js.map": "/rizal0404/TCO.git/static/js/453.12b48353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f8096a.css",
+    "static/js/main.c9c7a0e1.js"
+  ]
+}
